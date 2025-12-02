@@ -1,0 +1,4 @@
+'name', "Ali", "Alia", "Anita"
+'maths', 96, 95, 94
+'english', 87, 90, 96
+'science', 96, 70, 80
